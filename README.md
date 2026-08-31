@@ -2,7 +2,7 @@
 
 A collection of SystemVerilog programs I developed in edaplayground to learn SV concepts and testbench architecture.
 
-## 🔗 EDA Playground Projects
+## Object Oriented Programming in SystemVerilog
 1. [Shallow Copy](https://edaplayground.com/x/UhGN) <br>
    Built in copy method. Creates a new object and copies all properties from orginal object. But if the orginal object contains a nested object only its handle will    be copied. Therefore both objects will have handles pointing to the same nested object.
 2. [Deep Copy](https://edaplayground.com/x/kucx) <br>
