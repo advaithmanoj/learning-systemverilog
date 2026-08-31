@@ -1,6 +1,6 @@
-# SystemVerilog Mini Projects
+# SystemVerilog Concepts
 
-A collection of SystemVerilog programs and verification mini-projects developed using EDA Playground.
+A collection of SystemVerilog programs I developed in edaplayground to learn SV concepts and testbench architecture.
 
 ## 🔗 EDA Playground Projects
 1. [Shallow Copy](https://edaplayground.com/x/UhGN) <br>
@@ -12,11 +12,7 @@ A collection of SystemVerilog programs and verification mini-projects developed 
 4. [Inheritance](https://edaplayground.com/x/gzML) <br>
    SV concept that allows child class to access,override parent class methods and properties, is called Inheritance.
 4. [Polymorphism](https://edaplayground.com/x/fjP2) <br>
-   SV concept that allows parent class handle to access methods of child.
-To be added
+   SV concept that allows parent class handle to access methods of child. <br>
+To be continued
 
 
-
-## 📚 Topics
-
-Classes • Inheritance • Polymorphism • Randomization • Constraints • Assertions • Coverage • Interfaces • UVM
